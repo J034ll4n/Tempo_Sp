@@ -12,3 +12,5 @@ Selenium
 BeautifulSoup
 Tkinter
 Pandas
+
+[fluxograma_projeto.pdf](https://github.com/user-attachments/files/17423255/fluxograma_projeto.pdf)
