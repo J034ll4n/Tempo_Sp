@@ -14,5 +14,5 @@ Tkinter
 Pandas
 
 [fluxograma_projeto.pdf](https://github.com/user-attachments/files/17423255/fluxograma_projeto.pdf)
-![image](https://github.com/user-attachments/assets/54c693be-54b0-4d48-8240-74b45243a5d4)
 
+![as](https://github.com/user-attachments/assets/7bb19ef9-fa4e-40cc-8248-408201bbffa9)
